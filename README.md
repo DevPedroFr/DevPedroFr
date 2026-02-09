@@ -1,38 +1,60 @@
-### Bem vindo ao meu perfil
+# Olá! Eu sou Pedro França
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-frança-0b3857279/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phs.franca/)
+## Sobre mim
 
-[![github](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedroFr&show_icons=true&theme=dracula)]
+Desenvolvedor de software com foco em **back-end** e **ciência de dados**, apaixonado por construir soluções escaláveis e eficientes. Atualmente, trabalho com Python e suas principais frameworks, além de tecnologias cloud e DevOps.
 
-<div style= "display: inline_block"><br/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-          
+Busco constantemente evoluir profissionalmente, explorando novas tecnologias e aprimorando habilidades em machine learning e arquitetura de sistemas distribuídos.
 
-</div>
+## Tecnologias & Ferramentas
 
-### Carreira em desenvolvimento de software, com foco em back-end e ciência de dados. Experiência em desenvolvimento de aplicações web usando Python e Django, além de integrações com serviços na nuvem, como AWS. Conhecimento em automação e microserviços REST, bem como ferramentas ágeis como Docker. Experiência com versionamento de código usando GitLab e GitHub, além de integração contínua. Buscando sempre evoluir e aprender novas tecnologias, com interesse em ciência de dados, machine learning e desenvolvimento de sistemas escaláveis.
+### Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Habilidades:
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-Python para desenvolvimento back-end e ciência de dados
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Django e Flask para construção de aplicações web
+### Versionamento & Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
-Integrações de serviços AWS
+## Experiência & Competências
 
-Conhecimento em microserviços REST
+- Desenvolvimento de aplicações web robustas com **Django** e **Flask**
+- Integração e deploy de serviços em **AWS**
+- Desenvolvimento de **microserviços REST** escaláveis
+- Automação de processos e workflows
+- Análise e manipulação de dados com **Pandas**
+- Conhecimento em **Machine Learning** e suas aplicações
+- Containerização com **Docker**
+- Práticas de CI/CD e integração contínua
 
-Automação e ferramentas de DevOps (Docker)
+## GitHub Stats
 
-Versionamento de código com GitLab e GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevPedroFr&show_icons=true&theme=dracula&count_private=true)
 
-Ciência de dados com Pandas
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedroFr&layout=compact&theme=dracula)
 
-Conhecimento em Machine Learning
+## Interesses & Aprendizado
 
+- Ciência de Dados e Analytics
+- Machine Learning e Deep Learning
+- Arquitetura de sistemas escaláveis
+- Cloud Computing e infraestrutura moderna
+- Segurança e boas práticas de desenvolvimento
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-frança-0b3857279/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phs.franca/)
+
+---
+
+*"Código limpo não é escrito seguindo regras. Código limpo é escrito por programadores que se importam."* - Robert C. Martin
