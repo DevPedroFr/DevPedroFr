@@ -36,11 +36,6 @@ Busco constantemente evoluir profissionalmente, explorando novas tecnologias e a
 - Containerização com **Docker**
 - Práticas de CI/CD e integração contínua
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevPedroFr&show_icons=true&theme=dracula&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedroFr&layout=compact&theme=dracula)
 
 ## Interesses & Aprendizado
 
