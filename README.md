@@ -2,11 +2,7 @@
 
 ## Sobre mim
 
-Desenvolvedor de software com foco em **back-end** e **ciência de dados**, apaixonado por construir soluções escaláveis e eficientes. Atualmente, trabalho com Python e suas principais frameworks, além de tecnologias cloud e DevOps.
-
-Busco constantemente evoluir profissionalmente, explorando novas tecnologias e aprimorando habilidades em machine learning e arquitetura de sistemas distribuídos.
-
-## Tecnologias & Ferramentas
+Software Developer com experiência no desenvolvimento de aplicações web, APIs REST, automações e integrações utilizando Python, Django, Docker e AWS. Atuação em projetos corporativos envolvendo autenticação, gerenciamento de usuários, Web Scraping, monitoramento e agentes de IA. Experiência colaborando com equipes multidisciplinares e aplicando boas práticas como Clean Code, SOLID e desenvolvimento orientado à escalabilidade.
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
